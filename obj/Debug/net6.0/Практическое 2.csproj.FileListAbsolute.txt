@@ -1,0 +1,15 @@
+C:\Users\kudaj\source\repos\Практическое 2\bin\Debug\net6.0\Практическое 2.exe
+C:\Users\kudaj\source\repos\Практическое 2\bin\Debug\net6.0\Практическое 2.deps.json
+C:\Users\kudaj\source\repos\Практическое 2\bin\Debug\net6.0\Практическое 2.runtimeconfig.json
+C:\Users\kudaj\source\repos\Практическое 2\bin\Debug\net6.0\Практическое 2.dll
+C:\Users\kudaj\source\repos\Практическое 2\bin\Debug\net6.0\Практическое 2.pdb
+C:\Users\kudaj\source\repos\Практическое 2\obj\Debug\net6.0\Практическое 2.csproj.AssemblyReference.cache
+C:\Users\kudaj\source\repos\Практическое 2\obj\Debug\net6.0\Практическое 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kudaj\source\repos\Практическое 2\obj\Debug\net6.0\Практическое 2.AssemblyInfoInputs.cache
+C:\Users\kudaj\source\repos\Практическое 2\obj\Debug\net6.0\Практическое 2.AssemblyInfo.cs
+C:\Users\kudaj\source\repos\Практическое 2\obj\Debug\net6.0\Практическое 2.csproj.CoreCompileInputs.cache
+C:\Users\kudaj\source\repos\Практическое 2\obj\Debug\net6.0\Практическое 2.dll
+C:\Users\kudaj\source\repos\Практическое 2\obj\Debug\net6.0\refint\Практическое 2.dll
+C:\Users\kudaj\source\repos\Практическое 2\obj\Debug\net6.0\Практическое 2.pdb
+C:\Users\kudaj\source\repos\Практическое 2\obj\Debug\net6.0\Практическое 2.genruntimeconfig.cache
+C:\Users\kudaj\source\repos\Практическое 2\obj\Debug\net6.0\ref\Практическое 2.dll
